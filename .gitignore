@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (in case anyone adds scripts later)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node (same reason)
+node_modules/
+
+# Skill output safety net:
+# Handoffs must go to the OS temp directory. If one ever lands in the repo,
+# refuse to commit it.
+handoff-[0-9]*.md
