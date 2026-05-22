@@ -1,5 +1,7 @@
 # claude-skill-handoff
 
+**English** · [한국어](./README.ko.md)
+
 A Claude skill for creating **reviewed semantic handoff artifacts** when retiring
 a long-running session and continuing the work in a fresh one.
 
